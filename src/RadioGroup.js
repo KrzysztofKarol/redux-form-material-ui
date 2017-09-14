@@ -1,4 +1,4 @@
-import { RadioGroup } from 'material-ui-next/Radio'
+import { RadioGroup } from '@krzysztofkarol/material-ui/Radio'
 import createComponent from './createComponent'
 
 export default createComponent(RadioGroup, ({

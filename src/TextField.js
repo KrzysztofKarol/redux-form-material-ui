@@ -1,4 +1,4 @@
-import TextField from 'material-ui-next/TextField'
+import TextField from '@krzysztofkarol/material-ui/TextField'
 import createComponent from './createComponent'
 import mapError from './mapError'
 

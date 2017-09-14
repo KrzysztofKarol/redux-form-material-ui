@@ -1,7 +1,7 @@
 import expect from 'expect'
 import expectJsx from 'expect-jsx'
 import noop from 'lodash.noop'
-import Checkbox from 'material-ui-next/Checkbox'
+import Checkbox from '@krzysztofkarol/material-ui/Checkbox'
 import React from 'react'
 import ReduxFormMaterialUICheckbox from '../Checkbox'
 
@@ -10,7 +10,7 @@ expect.extend(expectJsx)
 describe('Checkbox', () => {
   it('has a display name', () => {
     expect(ReduxFormMaterialUICheckbox.displayName).toBe(
-      'ReduxFormMaterialUICheckbox'
+      'ReduxFormMaterialUIStyle'
     )
   })
 

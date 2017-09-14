@@ -1,6 +1,6 @@
 import expect from 'expect'
 import expectJsx from 'expect-jsx'
-import TextField from 'material-ui-next/TextField'
+import TextField from '@krzysztofkarol/material-ui/TextField'
 import React from 'react'
 import ReduxFormMaterialUITextField from '../TextField'
 

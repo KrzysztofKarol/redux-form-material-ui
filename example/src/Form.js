@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import { Field, reduxForm, formValueSelector } from 'redux-form'
-import { RadioButton } from 'material-ui-next/RadioButton'
-import MenuItem from 'material-ui-next/MenuItem'
+import { RadioButton } from '@krzysztofkarol/material-ui/RadioButton'
+import MenuItem from '@krzysztofkarol/material-ui/MenuItem'
 import { AutoComplete as MUIAutoComplete } from 'material-ui'
 import {
   AutoComplete,

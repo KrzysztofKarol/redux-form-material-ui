@@ -1,6 +1,6 @@
 import expect from 'expect'
 import expectJsx from 'expect-jsx'
-import { RadioGroup } from 'material-ui-next/Radio'
+import { RadioGroup } from '@krzysztofkarol/material-ui/Radio'
 import React from 'react'
 import TestUtils from 'react-dom/test-utils'
 import ReduxFormMaterialUIRadioGroup from '../RadioGroup'

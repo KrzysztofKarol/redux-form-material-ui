@@ -1,4 +1,4 @@
-import Switch from 'material-ui-next/Switch'
+import Switch from '@krzysztofkarol/material-ui/Switch'
 import createComponent from './createComponent'
 
 export default createComponent(Switch, ({
